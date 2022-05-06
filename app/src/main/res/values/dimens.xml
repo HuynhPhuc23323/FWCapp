@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="space">4dp</dimen>
+    <dimen name="margin">16dp</dimen>
+    <dimen name="margin_small">8dp</dimen>
+    <dimen name="margin_medium">12dp</dimen>
+    <dimen name="margin_large">24dp</dimen>
+    <dimen name="margin_extra_large">32dp</dimen>
+
+    <!-- Font Size -->
+    <dimen name="text_size_h1">32sp</dimen>
+    <dimen name="text_size_h2">24sp</dimen>
+    <dimen name="text_size_h3">20sp</dimen>
+    <dimen name="text_size_h4">16sp</dimen>
+    <dimen name="text_size_h6">14sp</dimen>
+    <dimen name="text_size_h7">13sp</dimen>
+    <dimen name="text_size_h8">12sp</dimen>
+    <dimen name="text_size_h9">10sp</dimen>
+    <dimen name="text_size_h11">6sp</dimen>
+
+</resources>

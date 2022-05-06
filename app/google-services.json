@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "38521849442",
+    "project_id": "fwc-cosmetic",
+    "storage_bucket": "fwc-cosmetic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38521849442:android:bae46c438b942ee976333b",
+        "android_client_info": {
+          "package_name": "com.fwc.cosmetic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "38521849442-dbmkov8rl7lrqd8be926rdcu0leccmol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJQnsw4XeY4hqOkRCeleidD8uXBRv9Jg4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "38521849442-dbmkov8rl7lrqd8be926rdcu0leccmol.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

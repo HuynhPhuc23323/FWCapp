@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">FWC Cosmetic</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="sign_up">Sign Up</string>
+
+    <string name="create_an_account">CREATE AN ACCOUNT</string>
+    <string name="name">Name</string>
+    <string name="et_hint_confirm_password">Confirm Password</string>
+    <string name="i_agree_to_the_terms_and_condition">I Agree To The <u> Terms &amp; Condition </u></string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="main">Main</string>
+    <string name="search">Search</string>
+    <string name="cart">Cart</string>
+    <string name="profile">Profile</string>
+    <string name="my_profile">My Profile</string>
+    <string name="logout">Logout</string>
+    <string name="update">Update</string>
+    <string name="update_name">Update Name</string>
+    <string name="add_to_cart">Add to Cart</string>
+    <string name="checkout">Checkout</string>
+    <string name="buy_now">Buy Now</string>
+    <string name="not_found_item">Not found item</string>
+    <string name="total">TOTAL:</string>
+    <string name="don_t_have_any_item_in_your_cart">Don\'t have any item in your cart</string>
+
+</resources>
